@@ -1,0 +1,7 @@
+{
+    "name": "reaper-bugfix",
+    "description": "Module intended to fix some of the common reaper bugs ( random teleports, failed casts, ... )",
+    "author": "KYGAS",
+    "servers": ["https://raw.githubusercontent.com/kygas/reaper-bugfix/master/"],
+    "disableAutoUpdate": false
+}
